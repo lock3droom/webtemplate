@@ -1,4 +1,4 @@
-plugin
+# **plugin**
 
 dotnet add package Microsoft.EntityFrameworkCore.Tools --version 9.0.0<br></br>
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 9.0.0<br></br>
